@@ -1,0 +1,32 @@
+name: eatclick
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  table_calendar: ^3.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    # - image/breakfastdish.jpg
+    # - image/apple.png
+    # - image/fb.png
+    # - image/google.png
+    # - image/ayambakar.jpeg
+    # - image/lemontea.jpg
+    # - image/strawberrycake.jpeg
+    # - image/onionring.jpeg
+    # - image/friedrice.jpeg
+    # - image/dog.png
+    - image/
